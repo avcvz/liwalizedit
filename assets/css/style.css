@@ -1,0 +1,52 @@
+* {
+	padding:0;
+	margin: 0;
+	box-sizing: border-box;
+}
+/* navbar */
+
+.brand {
+    font-size: 2em;
+}
+
+.liwa-image {
+	margin-bottom: 40px;
+}
+
+.beliwalizedbutton {
+	font-size: 1.5em;
+	background: #fff;
+	border: 3px solid orange;
+	color: orange;
+}
+
+.liwa-bg {
+	background: url(../img/liwaliwaDesktop.gif);
+	background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+}
+}
+
+.landing-logo {
+	color: white;
+}
+
+.pampalaki {
+	height: 100vh;
+	width: auto;
+}
+
+.video2 {
+	position: fixed;
+	z-index: 1;
+}
+
+
+.texttest {
+	position: relative;
+	right: -50px;
+	bottom: -500px;
+	z-index: 9;
+	
+}
