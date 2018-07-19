@@ -52,31 +52,12 @@
 }
 
 
-.beliwalizebtn {
-	margin-left: 88%;
-	margin-top: 5px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* TESTING */
 
 body {
 	font-size: 18px;
 	font-family: sans-serif;
-	background: #fafafa;
+	background: #F1C93C;
   }
   
   #nav-toggle {
@@ -89,7 +70,7 @@ body {
   }
   
   #nav-toggle-label {
-	position:;
+	position: fixed;
 	right: 1em;
 	top: 1em;
 	z-index: 2;
@@ -120,7 +101,7 @@ body {
 	list-style: none;
 	padding-left: 0;
 	text-align: center;
-	background: white;
+	background: rgba(255, 255, 255, 0.5);
 	opacity: 0;
 	transition: .2s all linear;
 	display: flex;
@@ -155,4 +136,3 @@ body {
 	top: 50%;
   }
   
-  /* END TESTING */
